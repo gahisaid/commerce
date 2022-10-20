@@ -1,0 +1,64 @@
+# Translation of Plugins - Extendify — Gutenberg Patterns and Templates - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Extendify — Gutenberg Patterns and Templates - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-22 17:49:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Extendify — Gutenberg Patterns and Templates - Stable (latest release)\n"
+
+#: app/Plugin.php:80
+msgid "An unknown error occurred during installation"
+msgstr "Une erreur inconnue s’est produite pendant l’installation"
+
+#: app/Plugin.php:74
+msgid "There was an error installing your plugin"
+msgstr "Une erreur s’est produite lors de l’installation de votre extension"
+
+#: app/Plugin.php:58
+msgid "You are not allowed to install plugins on this site."
+msgstr "Vous n’êtes pas autorisé à installer des extensions sur ce site."
+
+#: src/blocks/library/block.json
+msgctxt "block keyword"
+msgid "layouts"
+msgstr "mises en page"
+
+#: src/blocks/library/block.json
+msgctxt "block keyword"
+msgid "template"
+msgstr "modèle"
+
+#: src/blocks/library/block.json
+msgctxt "block description"
+msgid "Add block patterns and full page layouts with the Extendify Library."
+msgstr "Ajoutez des compositions de blocs et des mises en page complètes avec la bibliothèque Extendify."
+
+#: src/blocks/library/block.json
+msgctxt "block title"
+msgid "Pattern Library"
+msgstr "Bibliothèque de compositions"
+
+#: app/Controllers/PluginController.php:53 app/Plugin.php:36
+msgid "You are not allowed to activate plugins on this site."
+msgstr "Vous n’êtes pas autorisé à activer des extensions sur ce site."
+
+#: app/Admin.php:51
+msgid "Upgrade"
+msgstr "Mettre à niveau"
+
+#. Author URI of the plugin
+msgid "https://extendify.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://extendify.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Description of the plugin
+msgid "Extendify is the platform of site design and creation tools for people that want to build a beautiful WordPress website with a library of patterns and full page layouts for the Gutenberg block editor."
+msgstr "Extendify est la plateforme d’outils de conception et de création de sites pour les personnes qui souhaitent créer un beau site WordPress avec une bibliothèque de compositions et de mises en page complètes pour l’éditeur de blocs Gutenberg."
+
+#. Plugin URI of the plugin
+msgid "https://extendify.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://extendify.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
